@@ -1,0 +1,16 @@
+﻿{
+  "name": "Strong Password For Google Chrome",
+  "version": "1.0.4",
+  "manifest_version": 2,
+  "description": "Strong Password Generator for Google Chrome Browser",
+  "icons": {
+    "128": "images/icon128.png",
+    "16": "images/icon24.png"
+  },
+  "app": {
+    "launch": {
+      "web_url": "http://strongpasswordgenerator.senviet.org/"
+    },
+    "urls": [ "http://strongpasswordgenerator.senviet.org/" ]
+  }
+}
